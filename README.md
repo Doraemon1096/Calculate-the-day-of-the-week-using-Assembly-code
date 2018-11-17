@@ -10,5 +10,5 @@ Choice 4: Check whether the year input is leap year or not.<br/><br/>
 Choice 5: Calculate the duration between two date (how many days left).<br/><br/>
 Choice 6: Find the two nearest leap year according to the input date.<br/><br/>
 Choice 7: Exit the program.<br/><br/>
-
+Compile and run using Mars <br/><br/>
 Author: Nhut Thanh
